@@ -131,6 +131,9 @@ Email: example@email.com
 Location: Kigali, Rwanda
 
 ---
+## IFMIS-SDMS Business Flow
+
+![IFMIS-SDMS Business Flow](Architecture-Diagrams/IFMIS_SDMS_Business_Flow.png)
 
 # License
 
